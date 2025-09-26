@@ -1,3 +1,6 @@
+### LAB 3
+Deadline 2 october 23:59
+
 ## Python Classes
 
 1. Define a class which has at least two methods:
