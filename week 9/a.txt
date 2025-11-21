@@ -1,0 +1,7 @@
+Yelibay, 100
+Azamat, 20
+Aisultan, 100
+Akzhol, 10
+Naza, 0
+
+...... 10^5
