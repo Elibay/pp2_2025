@@ -17,3 +17,4 @@
 2. Before starting snake game, user should enter his username
 3. If user exists, you should show current level of user. (You should create several levels, with different walls, speed etc.)
 4. Implement shortcut for pause and save your current state and score to database.   
+5. 
